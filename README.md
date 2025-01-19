@@ -22,6 +22,8 @@
 🏞️ Hiking: I'm passionate about exploring nature and hiking trails.
 
 ## Basic Information
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[RockHopperPenguin64]&theme=[usually]&layout=[default])](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RockHopperPenguin64&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RockHopperPenguin64&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockHopperPenguin64&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile. Feel free to contact me for collaborations or just to say hello. 😊
