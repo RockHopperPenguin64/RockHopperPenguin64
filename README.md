@@ -1,5 +1,4 @@
 # Hello, I'm RockHopperPenguin64! 🐧
-
 ## About me
 - 👋 Hello, I'm RockHopperPenguin64. I'm a passionate developer with a strong interest in open source projects.
 - 💼 I'm currently programming as a hobby while studying at school.
@@ -21,5 +20,8 @@
 - 📖 Reading: I like reading novels and chemistry magazines.
 
 🏞️ Hiking: I'm passionate about exploring nature and hiking trails.
+
+## Basic Information
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[RockHopperPenguin64]&theme=[usually]&layout=[default])](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile. Feel free to contact me for collaborations or just to say hello. 😊
