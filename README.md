@@ -14,7 +14,7 @@
 
 ## Contact Us
 - 📧 Email: fankymonkey876@gmail.com (temporary)
-  ※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
+  <br>※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
 
 ## Interests and Hobbies
 - 🎮 Games: I love creating in strategy games and games like Minecraft.
