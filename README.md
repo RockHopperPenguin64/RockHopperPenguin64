@@ -16,7 +16,7 @@
 
 ## Learning Path
 - 📚 **Currently Learning**: css, javascript, php
-- 🎯 **Goal**: Create a homepage where you can access the projects I've created.
+- 🎯 **First-Step**: Create a homepage where you can access the projects I've created.
 
 ## Contact Us
 - 📧 Email: fankymonkey876@gmail.com (temporary)
@@ -25,7 +25,5 @@
 ## Interests and Hobbies
 - 🎮 Games: I love creating in strategy games and games like Minecraft.
 - 📖 Reading: I like reading novels and chemistry magazines.
-
-🏞️ Hiking: I'm passionate about exploring nature and hiking trails.
 
 Thank you for visiting my profile. Feel free to contact me for collaborations or just to say hello. 😊
