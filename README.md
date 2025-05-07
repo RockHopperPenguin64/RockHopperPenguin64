@@ -8,19 +8,19 @@
 
 ## About me
 - 👋 Hello, I'm RockHopperPenguin64. I'm a passionate developer with a strong interest in open source projects.
-- 💼 I'm currently programming as a hobby while studying at school.
+- 💼 I'm currently programming as a hobby while studying.
 - 🌱 I'm currently learning the basics of programming.
 
 ## Skills and Technology
-- 💻 **Languages**: Python, JavaScript, html,
+- 💻 **Languages**: Python, html&CSS, Swift
 
 ## Learning Path
-- 📚 **Currently Learning**: css, javascript, php
+- 📚 **Currently Learning**: css, javascript, php, Node.js
 - 🎯 **First-Step**: Create a homepage where you can access the projects I've created.
 
 ## Contact Us
 - 📧 Email: fankymonkey876@gmail.com (temporary)
-  <br>※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
+※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
 
 ## Interests and Hobbies
 - 🎮 Games: I love creating in strategy games and games like Minecraft.
