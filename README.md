@@ -4,6 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RockHopperPenguin64&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RockHopperPenguin64&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockHopperPenguin64&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RockHopperPenguin64)](https://git.io/streak-stats)
 
 
 ## About me
