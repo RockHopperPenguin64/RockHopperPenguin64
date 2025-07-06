@@ -29,4 +29,4 @@
 
 Thank you for visiting my profile. Feel free to contact me for collaborations or just to say hello. 😊
 
-![Snake Game](https://github.com/RockHopperPenguin64/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/RockHopperPenguin64/RockHopperPenguin64/blob/output/github-contribution-grid-snake.svg)
