@@ -13,14 +13,14 @@
 - 🌱 I'm currently learning the basics of programming.
 
 ## Skills and Technology
-- 💻 **Languages**: Python, html&CSS, Swift
+- 💻 **Languages**: Python, html&CSS, Swift, C#, SQL
 
 ## Learning Path
 - 📚 **Currently Learning**: css, javascript, php, Node.js
 - 🎯 **First-Step**: Create a homepage where you can access the projects I've created.
 
 ## Contact Us
-- 📧 Email: fankymonkey876@gmail.com (temporary)
+- 📧 Email: fankymonkey876@gmail.com (temp)
 ※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
 
 ## Interests and Hobbies
