@@ -22,7 +22,7 @@
 - 🎯 **First-Step**: Create a homepage where you can access the projects I've created.
 
 ## Contact Us
-- 📧 Email: fankymonkey876@gmail.com (temp)
+- 📧 Email: rockpen.dev@gmail.com
 ※This will be changed in the future. The date has not been decided yet. We will let you know when it is decided.
 
 ## Interests and Hobbies
